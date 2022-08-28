@@ -103,6 +103,6 @@ a .cart-btn:hover{
 
 @media (min-width:375px) {
      .sideimg{
-        background-image:url(./images/image-product-mobile.jpg);
+        background-image:url(./images/images/image-product-mobile.jpg);
      }
 }
